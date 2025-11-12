@@ -6,6 +6,7 @@
 
 int main(){
     Logger::getInstance().log("Hello!");
+    Logger::getInstance().log("Hello!");
     TaskManager taskManager;
     std::unordered_map<std::string,std::unique_ptr<CommandBase>> commands;
     commands["add"]=std::make_unique<AddCommand>(taskManager);
@@ -13,7 +14,7 @@ int main(){
     commands["list"]=std::make_unique<ListCommand>(taskManager);
     commands["update"]=std::make_unique<UpdateCommand>(taskManager);
     std::cout<<"Welcome your use!"<<std::endl;
-    std::cout<<"THIS IS GIT TEST DEMO VERSION1.5"<<std::endl;
+    std::cout<<"THIS IS GIT TEST DEMO VERSION1.6 FROM BRANCH"<<std::endl;
     std::string input;
     while(true){
         std::cout<<std::endl;
