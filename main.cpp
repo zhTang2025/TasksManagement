@@ -13,7 +13,7 @@ int main(){
     commands["list"]=std::make_unique<ListCommand>(taskManager);
     commands["update"]=std::make_unique<UpdateCommand>(taskManager);
     std::cout<<"Welcome your use!"<<std::endl;
-    std::cout<<"THIS IS GIT TEST DEMO V1.3"<<std::endl;
+    std::cout<<"THIS IS GIT TEST DEMO V1.4"<<std::endl;
     std::string input;
     while(true){
         std::cout<<std::endl;
