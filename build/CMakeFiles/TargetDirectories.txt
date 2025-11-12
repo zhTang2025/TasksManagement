@@ -1,0 +1,4 @@
+D:/vscodeproject/Tasks Management/build/CMakeFiles/common.dir
+D:/vscodeproject/Tasks Management/build/CMakeFiles/a.dir
+D:/vscodeproject/Tasks Management/build/CMakeFiles/edit_cache.dir
+D:/vscodeproject/Tasks Management/build/CMakeFiles/rebuild_cache.dir

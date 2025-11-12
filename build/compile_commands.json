@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/vscodeproject/Tasks Management/build",
+  "command": "D:\\vscodecpp\\Microsoft_VS_Code\\mingw64\\bin\\g++.exe -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\common.dir\\src\\Logger.cpp.obj -c \"D:\\vscodeproject\\Tasks Management\\src\\Logger.cpp\"",
+  "file": "D:/vscodeproject/Tasks Management/src/Logger.cpp",
+  "output": "CMakeFiles/common.dir/src/Logger.cpp.obj"
+},
+{
+  "directory": "D:/vscodeproject/Tasks Management/build",
+  "command": "D:\\vscodecpp\\Microsoft_VS_Code\\mingw64\\bin\\g++.exe -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\common.dir\\src\\TaskManager.cpp.obj -c \"D:\\vscodeproject\\Tasks Management\\src\\TaskManager.cpp\"",
+  "file": "D:/vscodeproject/Tasks Management/src/TaskManager.cpp",
+  "output": "CMakeFiles/common.dir/src/TaskManager.cpp.obj"
+},
+{
+  "directory": "D:/vscodeproject/Tasks Management/build",
+  "command": "D:\\vscodecpp\\Microsoft_VS_Code\\mingw64\\bin\\g++.exe -Dcommon_EXPORTS @CMakeFiles/common.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\common.dir\\src\\command.cpp.obj -c \"D:\\vscodeproject\\Tasks Management\\src\\command.cpp\"",
+  "file": "D:/vscodeproject/Tasks Management/src/command.cpp",
+  "output": "CMakeFiles/common.dir/src/command.cpp.obj"
+},
+{
+  "directory": "D:/vscodeproject/Tasks Management/build",
+  "command": "D:\\vscodecpp\\Microsoft_VS_Code\\mingw64\\bin\\g++.exe  @CMakeFiles/a.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\a.dir\\main.cpp.obj -c \"D:\\vscodeproject\\Tasks Management\\main.cpp\"",
+  "file": "D:/vscodeproject/Tasks Management/main.cpp",
+  "output": "CMakeFiles/a.dir/main.cpp.obj"
+}
+]

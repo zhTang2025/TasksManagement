@@ -1,0 +1,116 @@
+2025-05-09 21:54:42: Hello!
+2025-05-09 21:54:58: Hello!
+2025-05-09 22:01:20: Hello!
+2025-05-09 22:04:10: Hello!
+2025-05-10 11:36:47: Hello!
+2025-05-10 13:52:16: Hello!
+2025-05-10 13:52:53: Hello!
+2025-05-10 14:06:14: Hello!
+2025-05-10 14:06:14: Failed to open tasks file
+2025-05-10 14:06:14: Task added: ID: 1,Descript: kaihui,Priority: 1,DDL: 2025-03-15
+2025-05-10 14:06:14: Tasks saved successfully
+2025-05-10 14:37:13: Hello!
+2025-05-10 14:37:13: Tasks loaded successfully
+2025-05-10 14:37:13: Task added: ID: 2,Descript: kaihui,Priority: 1,DDL: 2025-03-15
+2025-05-10 14:37:13: Tasks saved successfully
+2025-05-10 15:23:41: Hello!
+2025-05-10 15:23:41: Tasks loaded successfully
+2025-05-10 15:23:55: para mode error
+2025-05-10 15:24:54: para mode error
+2025-05-10 15:25:09: Task added: ID: 2,Descript: work,Priority: 2,DDL: 2025-05-10
+2025-05-10 15:25:09: Tasks saved successfully
+2025-05-10 15:25:14: para mode error
+2025-05-10 15:35:31: Hello!
+2025-05-10 15:35:31: Tasks loaded successfully
+2025-05-10 15:36:04: Task added: ID: 2,Descript: study,Priority: 10,DDL: 2025-11-23
+2025-05-10 15:36:04: Tasks saved successfully
+2025-05-10 15:36:54: Hello!
+2025-05-10 15:36:54: Tasks loaded successfully
+2025-05-10 15:38:05: Hello!
+2025-05-10 15:38:05: Tasks loaded successfully
+2025-05-10 15:39:07: Hello!
+2025-05-10 15:39:07: Tasks loaded successfully
+2025-05-10 15:39:37: Task added: ID: 2,Descript: study,Priority: 1,DDL: 2024-11-23
+2025-05-10 15:39:37: Tasks saved successfully
+2025-05-10 15:39:52: Task delete: ID: 2,Descript: study,Priority: 1,DDL: 2024-11-23
+2025-05-10 15:39:52: Tasks saved successfully
+2025-05-10 15:40:11: Task added: ID: 3,Descript: study,Priority: 2,DDL: 2025-05-10
+2025-05-10 15:40:11: Tasks saved successfully
+2025-05-10 15:42:07: Hello!
+2025-05-10 15:42:07: Tasks loaded successfully
+2025-05-10 15:43:01: Hello!
+2025-05-10 15:43:01: Tasks loaded successfully
+2025-05-10 15:54:58: Hello!
+2025-05-10 15:54:58: Tasks loaded successfully
+2025-05-10 15:55:56: Hello!
+2025-05-10 15:55:56: Tasks loaded successfully
+2025-05-10 15:56:31: Task added: ID: 3,Descript: studt2,Priority: 3,DDL: 2024-11-12
+2025-05-10 15:56:31: Tasks saved successfully
+2025-05-10 15:56:40: Task added: ID: 4,Descript: study3,Priority: 5,DDL: 2025-07-22
+2025-05-10 15:56:40: Tasks saved successfully
+2025-05-10 15:57:24: Task delete: ID: 3,Descript: studt2,Priority: 3,DDL: 2024-11-12
+2025-05-10 15:57:24: Tasks saved successfully
+2025-05-10 15:57:37: Task added: ID: 5,Descript: work,Priority: 10,DDL: 2025-12-21
+2025-05-10 15:57:37: Tasks saved successfully
+2025-05-10 16:08:45: Hello!
+2025-05-10 16:08:45: Tasks loaded successfully
+2025-05-10 16:08:58: Task added: ID: 4,Descript: jiangsu,Priority: 6,DDL: 2025-04-27
+2025-05-10 16:08:58: Tasks saved successfully
+2025-05-10 16:09:51: Hello!
+2025-05-10 16:09:51: Tasks loaded successfully
+2025-05-10 16:10:10: Task added: ID: 4,Descript: is,Priority: 5,DDL: 2025-08-16
+2025-05-10 16:10:10: Tasks saved successfully
+2025-05-10 16:12:45: Hello!
+2025-05-10 16:12:45: Tasks loaded successfully
+2025-05-10 16:12:51: Task delete: ID: 3,Descript: studt2,Priority: 3,DDL: ,,,2024-11-12
+2025-05-10 16:12:51: Tasks saved successfully
+2025-05-10 16:13:26: Hello!
+2025-05-10 16:13:40: Task added: ID: 1,Descript: work,Priority: 1,DDL: 2025-05-10
+2025-05-10 16:13:40: Tasks saved successfully
+2025-05-10 16:13:57: Task added: ID: 2,Descript: study,Priority: 2,DDL: 2025-05-12
+2025-05-10 16:13:57: Tasks saved successfully
+2025-05-10 16:14:08: Task added: ID: 3,Descript: eat,Priority: 5,DDL: 2025-11-13
+2025-05-10 16:14:08: Tasks saved successfully
+2025-05-10 16:14:21: Hello!
+2025-05-10 16:14:21: Tasks loaded successfully
+2025-05-10 17:49:53: Hello!
+2025-05-10 17:49:53: Tasks loaded successfully
+2025-05-10 19:33:22: Hello!
+2025-05-10 19:33:22: Tasks loaded successfully
+2025-05-10 19:57:29: Hello!
+2025-05-10 19:57:29: Tasks loaded successfully
+2025-05-10 21:27:29: Hello!
+2025-05-10 21:27:29: Tasks loaded successfully
+2025-05-10 21:28:18: Hello!
+2025-05-10 21:28:18: Tasks loaded successfully
+2025-05-10 21:28:32: Task added: ID: 2,Descript: game,Priority: 15,DDL: 2025-05-11
+2025-05-10 21:28:32: Tasks saved successfully
+2025-05-10 21:28:51: Task delete: ID: 2,Descript: game,Priority: 15,DDL: 2025-05-11
+2025-05-10 21:28:51: Tasks saved successfully
+2025-05-10 22:20:16: Hello!
+2025-05-10 22:20:16: Tasks loaded successfully
+2025-05-10 23:57:26: Hello!
+2025-05-10 23:57:26: Tasks loaded successfully
+2025-05-11 11:40:32: Hello!
+2025-05-11 11:40:32: Tasks loaded successfully
+2025-05-11 11:42:36: Hello!
+2025-05-11 11:42:36: Tasks loaded successfully
+2025-05-11 15:18:52: Hello!
+2025-05-11 15:18:52: Tasks loaded successfully
+2025-05-16 22:30:08: Hello!
+2025-05-16 22:30:08: Tasks loaded successfully
+2025-05-16 22:32:03: Hello!
+2025-05-16 22:32:03: Tasks loaded successfully
+2025-05-16 23:30:45: Hello!
+2025-05-16 23:30:45: Tasks loaded successfully
+2025-05-17 12:46:58: Hello!
+2025-05-17 12:46:58: Tasks loaded successfully
+2025-05-17 12:47:00: para mode error
+2025-05-18 15:31:06: Hello!
+2025-05-18 15:31:06: Tasks loaded successfully
+2025-06-13 10:31:14: Hello!
+2025-06-13 10:31:14: Tasks loaded successfully
+2025-06-21 14:44:22: Hello!
+2025-06-21 14:44:22: Tasks loaded successfully
+2025-11-12 11:27:53: Hello!
+2025-11-12 11:27:53: Tasks loaded successfully
